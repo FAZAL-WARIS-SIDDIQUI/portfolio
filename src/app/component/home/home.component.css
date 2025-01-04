@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+3:wght@400;600;700&display=swap");
+.navbar-logo {
+  width: 8.5rem;
+}
+.bg-green {
+  background-color: #dffe02;
+}
+.bg-drakBlue {
+  background-color: #171c22;
+}
+.txt-green {
+  color: #dffe02;
+}
+.txt-gray {
+  color: #171c22;
+}
+.mybtn {
+  border: 0.1rem solid #dffe02 !important;
+  padding: 0.5rem 1.6rem;
+}
+.mybtn:hover {
+  background-color: transparent;
+  color: #dffe02 !important;
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 0, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
