@@ -1,9 +1,8 @@
 [build]
-base="portfolio"
 command = "npm install && npm run build"
-publish="dist/browser"
+publish = "dist/browser"  # Path to build output directory, adjust if necessary
 
 [[redirects]]
-from ="/*"
-to ="./index.html"
-status=200
+from = "/*"
+to = "./index.html"
+status = 200
