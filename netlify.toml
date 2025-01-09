@@ -1,6 +1,6 @@
 [build]
 base="portfolio"
-command = "npm run build"
+command = "npm install && npm run build"
 publish="dist/browser"
 
 [[redirects]]
