@@ -58,7 +58,7 @@ body {
 .image-contianer {
   width: 32rem;
   aspect-ratio: 1;
-  border-radius: 10%;
+  border-radius: 50%;
   border-top: 1rem solid var(--white-color);
   border-bottom: 1rem solid var(--white-color);
   background-image: url(../assests/images/profile.png);
